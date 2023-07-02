@@ -1,6 +1,6 @@
 {
 	"name": "js-achieve-challenges",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "js手写实现挑战",
 	"repository": "git@github.com:iamzjt-front-end/js-achieve-challenges.git",
 	"main": "index.js",
