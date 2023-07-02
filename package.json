@@ -1,0 +1,63 @@
+{
+	"name": "js-achieve-challenges",
+	"version": "1.0.0",
+	"description": "js手写实现挑战",
+	"main": "index.js",
+	"scripts": {
+		"test": "vitest",
+		"server": "vitest --ui",
+		"commit": "git add . && ./node_modules/cz-customizable/standalone.js",
+		"prettier": "prettier --write .",
+		"lint": "eslint --fix . --ext .js,.ts",
+		"prepare": "npx only-allow pnpm && husky install"
+	},
+	"keywords": [
+		"javascript",
+		"js",
+		"challenges"
+	],
+	"author": "IamZJT",
+	"license": "ISC",
+	"devDependencies": {
+		"@commitlint/cli": "^17.6.6",
+		"@commitlint/config-conventional": "^17.6.6",
+		"@commitlint/cz-commitlint": "^17.5.0",
+		"@types/node": "^20.3.3",
+		"@typescript-eslint/eslint-plugin": "^5.60.1",
+		"@typescript-eslint/parser": "^5.60.1",
+		"@vitest/ui": "^0.32.2",
+		"commitizen": "^4.3.0",
+		"cz-conventional-changelog": "^3.3.0",
+		"cz-customizable": "^7.0.0",
+		"eslint": "^8.43.0",
+		"eslint-config-prettier": "^8.8.0",
+		"eslint-plugin-prettier": "^4.2.1",
+		"husky": "^8.0.0",
+		"inquirer": "8",
+		"lint-staged": "^13.2.3",
+		"prettier": "^2.8.8",
+		"typescript": "~5.0.4",
+		"unplugin-auto-import": "^0.16.4",
+		"vitest": "^0.32.2"
+	},
+	"config": {
+		"commitizen": {
+			"path": "node_modules/cz-customizable"
+		},
+		"cz-customizable": {
+			"config": "config/path/to/my/config.js"
+		}
+	},
+	"husky": {
+		"hooks": {
+			"pre-commit": "lint-staged",
+			"prepare-commit-msg": "exec < /dev/tty && npx cz --hook || true"
+		}
+	},
+	"lint-staged": {
+		"*.{js,ts}": [
+			"prettier --config .prettierrc.js --write",
+			"eslint --cache --fix"
+		]
+	}
+}
