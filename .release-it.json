@@ -15,7 +15,7 @@
 	},
 	"hooks": {
 		"before:init": ["pnpm lint", "pnpm test-once"],
-		"after:release": "echo ✅ SUCCESS! released: ${name} v${version} to ${repo.repository}."
+		"after:release": "echo ✅ SUCCESS! released: ${name} v${version}"
 	},
 	"plugins": {
 		"@release-it/conventional-changelog": {
