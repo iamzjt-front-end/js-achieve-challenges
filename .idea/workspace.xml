@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d61abfc6-d206-494d-8f61-c6020cf53de8" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/TODOs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/00001-warm-hello-world/README.zh-CN.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/00002-easy/README.zh-CN.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/00002-easy/answer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/00002-easy/info.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/00002-easy/test.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/00003-medium/answer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/00003-medium/info.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/00003-medium/test.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/00004-hard/README.zh-CN.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/00004-hard/answer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/00004-hard/info.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/00004-hard/test.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/00099-extreme/README.zh-CN.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/00099-extreme/answer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/00099-extreme/info.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/00099-extreme/test.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/00001-warm-hello-world/answer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/problems/00001-warm-hello-world/answer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/00001-warm-hello-world/problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/problems/00003-medium/README.zh-CN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/00001-warm-hello-world/problem.zh_CN.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/00001-warm-hello-world/test.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/problems/00001-warm-hello-world/test.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.release-it.json" beforeDir="false" afterPath="$PROJECT_DIR$/.release-it.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +148,7 @@
       <updated>1688133263992</updated>
       <workItem from="1688133267216" duration="11673000" />
       <workItem from="1688290689975" duration="8353000" />
-      <workItem from="1688299292057" duration="10392000" />
+      <workItem from="1688299292057" duration="10525000" />
     </task>
     <task id="LOCAL-00001" summary="style: 更新 .d.ts">
       <option name="closed" value="true" />
