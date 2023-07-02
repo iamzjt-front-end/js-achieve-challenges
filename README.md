@@ -37,39 +37,33 @@ JavaScript手写代码示例的编写对于学习JavaScript非常有帮助。这
 <!--challenges-start-->
 <!-- 热身题 -->
 <img src="https://img.shields.io/badge/%E7%83%AD%E8%BA%AB-1-teal" alt="1"/>
-	<br>
 	<a href="./problems/00001-warm-hello-world/README.zh-CN.md" target="_blank">
 	<img src="https://img.shields.io/badge/-1%E3%83%BBHello%20World-teal" alt="1・Hello World"/>
-</a> 
+</a>
 <br><br>
 <!-- 简单题 -->
 <img src="https://img.shields.io/badge/%E7%AE%80%E5%8D%95-1-7aad0c" alt="1"/>
-<br>
 <a href="./problems/00002-easy/README.zh-CN.md" target="_blank">
 	<img src="https://img.shields.io/badge/-2%E3%83%BB%E5%BE%85%E6%B7%BB%E5%8A%A0-7aad0c" alt="2・待添加"/>
-</a> 
+</a>
 <br><br>
 <!-- 中等题 -->
 <img src="https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-1-d9901a" alt="1"/>
-<br>
 <a href="./problems/00003-medium/README.zh-CN.md" target="_blank">
 	<img src="https://img.shields.io/badge/-3%E3%83%BB%E5%BE%85%E6%B7%BB%E5%8A%A0-d9901a" alt="3・待添加"/>
 </a>
 <br><br>
 <!-- 困难题 -->
 <img src="https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-1-de3d37" alt="1"/>
-<br>
 <a href="./problems/00004-hard/README.zh-CN.md" target="_blank">
 	<img src="https://img.shields.io/badge/-4%E3%83%BB%E5%BE%85%E6%B7%BB%E5%8A%A0-de3d37" alt="4・待添加"/>
-</a> 
+</a>
 <br><br>
 <!-- 地狱题 -->
 <img src="https://img.shields.io/badge/%E5%9C%B0%E7%8B%B1-1-b11b8d" alt="14"/>
-<br>
 <a href="./problems/00099-extreme/README.zh-CN.md" target="_blank">
 	<img src="https://img.shields.io/badge/-99%E3%83%BB%E5%BE%85%E6%B7%BB%E5%8A%A0-b11b8d" alt="5・待添加"/>
 </a>
-<!--challenges-end-->
 
 ## 参与贡献
 

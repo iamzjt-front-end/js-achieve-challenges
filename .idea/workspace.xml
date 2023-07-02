@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d61abfc6-d206-494d-8f61-c6020cf53de8" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.release-it.json" beforeDir="false" afterPath="$PROJECT_DIR$/.release-it.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +148,7 @@
       <updated>1688133263992</updated>
       <workItem from="1688133267216" duration="11673000" />
       <workItem from="1688290689975" duration="8353000" />
-      <workItem from="1688299292057" duration="10525000" />
+      <workItem from="1688299292057" duration="10848000" />
     </task>
     <task id="LOCAL-00001" summary="style: 更新 .d.ts">
       <option name="closed" value="true" />
