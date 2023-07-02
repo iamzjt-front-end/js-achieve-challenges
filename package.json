@@ -1,14 +1,17 @@
 {
 	"name": "js-achieve-challenges",
-	"version": "1.0.0",
+	"version": "0.0.0",
 	"description": "js手写实现挑战",
+	"repository": "git@github.com:iamzjt-front-end/js-achieve-challenges.git",
 	"main": "index.js",
 	"scripts": {
 		"test": "vitest",
+		"test-once": "vitest run",
 		"server": "vitest --ui",
 		"commit": "git add . && ./node_modules/cz-customizable/standalone.js",
 		"prettier": "prettier --write .",
 		"lint": "eslint --fix . --ext .js,.ts",
+		"release": "release-it",
 		"prepare": "npx only-allow pnpm && husky install"
 	},
 	"keywords": [
@@ -22,6 +25,7 @@
 		"@commitlint/cli": "^17.6.6",
 		"@commitlint/config-conventional": "^17.6.6",
 		"@commitlint/cz-commitlint": "^17.5.0",
+		"@release-it/conventional-changelog": "^5.1.1",
 		"@types/node": "^20.3.3",
 		"@typescript-eslint/eslint-plugin": "^5.60.1",
 		"@typescript-eslint/parser": "^5.60.1",
@@ -36,6 +40,7 @@
 		"inquirer": "8",
 		"lint-staged": "^13.2.3",
 		"prettier": "^2.8.8",
+		"release-it": "^15.11.0",
 		"typescript": "~5.0.4",
 		"unplugin-auto-import": "^0.16.4",
 		"vitest": "^0.32.2"
