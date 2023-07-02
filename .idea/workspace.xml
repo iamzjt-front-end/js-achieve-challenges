@@ -5,8 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d61abfc6-d206-494d-8f61-c6020cf53de8" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/TODOs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/00001-warm-hello-world/README.zh-CN.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/00002-easy/README.zh-CN.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/00002-easy/answer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/00002-easy/info.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/00002-easy/test.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/00003-medium/answer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/00003-medium/info.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/00003-medium/test.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/00004-hard/README.zh-CN.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/00004-hard/answer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/00004-hard/info.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/00004-hard/test.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/00099-extreme/README.zh-CN.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/00099-extreme/answer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/00099-extreme/info.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/00099-extreme/test.spec.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.release-it.json" beforeDir="false" afterPath="$PROJECT_DIR$/.release-it.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/00001-warm-hello-world/answer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/problems/00001-warm-hello-world/answer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/00001-warm-hello-world/problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/problems/00003-medium/README.zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/00001-warm-hello-world/problem.zh_CN.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/00001-warm-hello-world/test.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/problems/00001-warm-hello-world/test.spec.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +72,7 @@
     "git-widget-placeholder": "main",
     "javascript.nodejs.core.library.configured.version": "18.14.1",
     "javascript.nodejs.core.library.typings.version": "18.14.1",
-    "last_opened_file_path": "/Users/iamzjt/Desktop/个人/学习仓库/js-achieve-challenges",
+    "last_opened_file_path": "/Users/iamzjt/Desktop/个人/学习仓库/js-achieve-challenges/problems",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -62,17 +83,31 @@
     "nodejs_package_manager_path": "/Users/iamzjt/Library/pnpm/pnpm",
     "prettierjs.PrettierConfiguration.Package": "/Users/iamzjt/Desktop/个人/学习仓库/js-achieve-challenges/node_modules/prettier",
     "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "settings.typescriptcompiler",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "/Users/iamzjt/Desktop/个人/学习仓库/js-achieve-challenges/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/problems" />
+      <recent name="$PROJECT_DIR$/problems/00002-easy" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.lint">
+  <component name="RunManager" selected="Vitest.00001-warm-hello-world">
+    <configuration name="00001-warm-hello-world" type="JavaScriptTestRunnerVitest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <vitest-package value="$PROJECT_DIR$/node_modules/vitest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/problems/00001-warm-hello-world/test.spec.ts" />
+      <test-names>
+        <test-name value="00001-warm-hello-world" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <configuration name="should say hello" type="JavaScriptTestRunnerVitest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <vitest-package value="$PROJECT_DIR$/node_modules/vitest" />
@@ -117,6 +152,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Vitest.00001-warm-hello-world" />
         <item itemvalue="npm.lint" />
         <item itemvalue="npm.prettier" />
         <item itemvalue="Vitest.should say hello" />
@@ -134,7 +170,7 @@
       <updated>1688133263992</updated>
       <workItem from="1688133267216" duration="11673000" />
       <workItem from="1688290689975" duration="8353000" />
-      <workItem from="1688299292057" duration="4222000" />
+      <workItem from="1688299292057" duration="10392000" />
     </task>
     <task id="LOCAL-00001" summary="style: 更新 .d.ts">
       <option name="closed" value="true" />

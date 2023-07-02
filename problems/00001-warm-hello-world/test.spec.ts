@@ -1,5 +1,9 @@
-describe("00001 Warm Hello World", () => {
+import { helloWorld } from "./answer";
+
+describe("00001-warm-hello-world", () => {
 	it("happy path", () => {
-		expect(true).toBe(true);
+		const result = helloWorld();
+
+		expect(result).toBe("Hello World!");
 	});
 });
