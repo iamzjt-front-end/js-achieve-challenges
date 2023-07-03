@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d61abfc6-d206-494d-8f61-c6020cf53de8" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/项目开发中的常见问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/从零到一的搭建过程.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/从零到一的搭建过程.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,13 +17,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="markdown" />
         <option value="HTML File" />
+        <option value="markdown" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -48,8 +54,8 @@
     "WebServerToolWindowFactoryState": "false",
     "editorconfig.notification": "lf ",
     "git-widget-placeholder": "main",
-    "javascript.nodejs.core.library.configured.version": "18.14.1",
-    "javascript.nodejs.core.library.typings.version": "18.14.1",
+    "javascript.nodejs.core.library.configured.version": "18.16.0",
+    "javascript.nodejs.core.library.typings.version": "18.16.0",
     "last_opened_file_path": "/Users/iamzjt/Desktop/个人/学习仓库/js-achieve-challenges/problems",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
@@ -59,10 +65,10 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "/Users/iamzjt/Library/pnpm/pnpm",
-    "prettierjs.PrettierConfiguration.Package": "/Users/iamzjt/Desktop/个人/学习仓库/js-achieve-challenges/node_modules/prettier",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\admin\\Desktop\\js-achieve-challenges\\node_modules\\prettier",
     "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "/Users/iamzjt/Desktop/个人/学习仓库/js-achieve-challenges/node_modules/typescript/lib",
+    "settings.editor.selected.configurable": "settings.typescriptcompiler",
+    "ts.external.directory.path": "C:\\Users\\admin\\Desktop\\js-achieve-challenges\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -149,6 +155,7 @@
       <workItem from="1688133267216" duration="11673000" />
       <workItem from="1688290689975" duration="8353000" />
       <workItem from="1688299292057" duration="10848000" />
+      <workItem from="1688350709354" duration="560000" />
     </task>
     <task id="LOCAL-00001" summary="style: 更新 .d.ts">
       <option name="closed" value="true" />
@@ -163,6 +170,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="package.json" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
