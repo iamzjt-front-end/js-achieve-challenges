@@ -1,3 +1,23 @@
+
+
+## [0.0.3](https://github.com/iamzjt-front-end/js-achieve-challenges/compare/v0.0.2...v0.0.3) (2023-07-04)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* fix Editor End of Line 爆红 ([442c445](https://github.com/iamzjt-front-end/js-achieve-challenges/commit/442c44543c1d4972243c435ef52fef3815e91d8a))
+
+
+### ✨ Features | 新功能
+
+* **problems:** add 00002-easy-reverse-string ([dea3d97](https://github.com/iamzjt-front-end/js-achieve-challenges/commit/dea3d97df90cafc38f4bedac6c57ac8229cc2175))
+
+
+### ✏️ Documentation | 文档
+
+* add 00003-easy-reverse-string link ([75a3fb8](https://github.com/iamzjt-front-end/js-achieve-challenges/commit/75a3fb8cd22cc8ae92c381aeaa08892ef8837268))
+* update README.md License ([140fe44](https://github.com/iamzjt-front-end/js-achieve-challenges/commit/140fe44f40f40c150e00b34ffcb839665604650d))
+
 ## [0.0.2](https://github.com/iamzjt-front-end/js-achieve-challenges/compare/v0.0.1...v0.0.2) (2023-07-02)
 
 ### ✨ Features | 新功能
