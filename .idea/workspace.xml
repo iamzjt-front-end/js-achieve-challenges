@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d61abfc6-d206-494d-8f61-c6020cf53de8" name="更改" comment="style: 更新 .d.ts">
+    <list default="true" id="d61abfc6-d206-494d-8f61-c6020cf53de8" name="更改" comment="feat: mod scripts commit">
+      <change beforePath="$PROJECT_DIR$/.husky/pre-commit" beforeDir="false" afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -165,7 +166,7 @@
       <workItem from="1688350709354" duration="2565000" />
       <workItem from="1688363376866" duration="3000" />
       <workItem from="1688436436765" duration="8693000" />
-      <workItem from="1688454049761" duration="239000" />
+      <workItem from="1688454049761" duration="1255000" />
     </task>
     <task id="LOCAL-00001" summary="style: 更新 .d.ts">
       <option name="closed" value="true" />
@@ -200,7 +201,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="style: 更新 .d.ts" />
-    <option name="LAST_COMMIT_MESSAGE" value="style: 更新 .d.ts" />
+    <MESSAGE value="feat: mod scripts commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: mod scripts commit" />
   </component>
   <component name="VueSettings">
     <option name="innerServiceType" value="TS_SERVICE" />
