@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d61abfc6-d206-494d-8f61-c6020cf53de8" name="更改" comment="style: 更新 .d.ts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Vitest.00002-easy-string-reverse (1)">
+  <component name="RunManager" selected="npm.commit">
     <configuration name="00002-easy-string-reverse -&gt; type test" type="JavaScriptTestRunnerVitest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <vitest-package value="$PROJECT_DIR$/node_modules/vitest" />
@@ -130,26 +130,24 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="00002-easy-string-reverse.params should be string" type="JavaScriptTestRunnerVitest" temporary="true" nameIsGenerated="true">
+    <configuration name="commit" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="commit" />
+      </scripts>
       <node-interpreter value="project" />
-      <vitest-package value="$PROJECT_DIR$/node_modules/vitest" />
-      <working-dir value="$PROJECT_DIR$" />
+      <package-manager value="pnpm" />
       <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/problems/00002-easy-reverse-string/test.spec.ts" />
-      <test-names>
-        <test-name value="00002-easy-string-reverse" />
-        <test-name value="params should be string" />
-      </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.commit" />
         <item itemvalue="Vitest.00002-easy-string-reverse (1)" />
         <item itemvalue="Vitest.00002-easy-string-reverse -&gt; type" />
         <item itemvalue="Vitest.00002-easy-string-reverse -&gt; type.params should be string" />
         <item itemvalue="Vitest.00002-easy-string-reverse -&gt; type test" />
-        <item itemvalue="Vitest.00002-easy-string-reverse.params should be string" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +164,8 @@
       <workItem from="1688299292057" duration="10848000" />
       <workItem from="1688350709354" duration="2565000" />
       <workItem from="1688363376866" duration="3000" />
-      <workItem from="1688436436765" duration="8021000" />
+      <workItem from="1688436436765" duration="8693000" />
+      <workItem from="1688454049761" duration="239000" />
     </task>
     <task id="LOCAL-00001" summary="style: 更新 .d.ts">
       <option name="closed" value="true" />
