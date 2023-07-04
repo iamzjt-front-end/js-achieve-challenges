@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d61abfc6-d206-494d-8f61-c6020cf53de8" name="更改" comment="">
+    <list default="true" id="d61abfc6-d206-494d-8f61-c6020cf53de8" name="更改" comment="style: 更新 .d.ts">
+      <change afterPath="$PROJECT_DIR$/problems/00002-easy-reverse-string/README.zh-CN.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/00002-easy-reverse-string/index.test-d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/00002-easy-reverse-string/index.test.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto-imports.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/auto-imports.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/00001-warm-hello-world/README.zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/problems/00001-warm-hello-world/README.zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/00001-warm-hello-world/info.yml" beforeDir="false" afterPath="$PROJECT_DIR$/problems/00001-warm-hello-world/info.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/00001-warm-hello-world/test.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/problems/00001-warm-hello-world/index.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/00002-easy/README.zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/new.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/00002-easy/answer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/开发步骤.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/00002-easy/info.yml" beforeDir="false" afterPath="$PROJECT_DIR$/problems/00002-easy-reverse-string/info.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/00002-easy/test.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/problems/00002-easy-reverse-string/answer.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +28,7 @@
       <list>
         <option value="HTML File" />
         <option value="markdown" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -55,7 +66,7 @@
     "git-widget-placeholder": "main",
     "javascript.nodejs.core.library.configured.version": "18.16.0",
     "javascript.nodejs.core.library.typings.version": "18.16.0",
-    "last_opened_file_path": "/Users/iamzjt/Desktop/个人/学习仓库/js-achieve-challenges/problems",
+    "last_opened_file_path": "C:/Users/admin/Desktop/js-achieve-challenges/problems/00002-easy-reverse-string",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -66,80 +77,89 @@
     "nodejs_package_manager_path": "/Users/iamzjt/Library/pnpm/pnpm",
     "prettierjs.PrettierConfiguration.Package": "C:\\Users\\admin\\Desktop\\js-achieve-challenges\\node_modules\\prettier",
     "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "settings.vite",
+    "settings.editor.selected.configurable": "settings.vue",
     "ts.external.directory.path": "C:\\Users\\admin\\Desktop\\js-achieve-challenges\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\js-achieve-challenges\problems\00002-easy-reverse-string" />
       <recent name="$PROJECT_DIR$/problems" />
       <recent name="$PROJECT_DIR$/problems/00002-easy" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Vitest.00001-warm-hello-world">
-    <configuration name="00001-warm-hello-world" type="JavaScriptTestRunnerVitest" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Vitest.00002-easy-string-reverse -&gt; type">
+    <configuration name="00002-easy-string-reverse -&gt; type test" type="JavaScriptTestRunnerVitest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <vitest-package value="$PROJECT_DIR$/node_modules/vitest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="SUITE" />
-      <test-file value="$PROJECT_DIR$/problems/00001-warm-hello-world/test.spec.ts" />
+      <test-file value="$PROJECT_DIR$/problems/00002-easy-reverse-string/index.test-d.ts" />
       <test-names>
-        <test-name value="00001-warm-hello-world" />
+        <test-name value="00002-easy-string-reverse -&gt; type test" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="should say hello" type="JavaScriptTestRunnerVitest" temporary="true" nameIsGenerated="true">
+    <configuration name="00002-easy-string-reverse -&gt; type" type="JavaScriptTestRunnerVitest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <vitest-package value="$PROJECT_DIR$/node_modules/vitest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/problems/00002-easy-reverse-string/index.test-d.ts" />
+      <test-names>
+        <test-name value="00002-easy-string-reverse -&gt; type" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="00002-easy-string-reverse -&gt; type.params should be string" type="JavaScriptTestRunnerVitest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <vitest-package value="$PROJECT_DIR$/node_modules/vitest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/problems/00001-warm-hello-world/test.spec.ts" />
+      <test-file value="$PROJECT_DIR$/problems/00002-easy-reverse-string/index.test-d.ts" />
       <test-names>
-        <test-name value="should say hello" />
+        <test-name value="00002-easy-string-reverse -&gt; type" />
+        <test-name value="params should be string" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="commit" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="commit" />
-      </scripts>
+    <configuration name="00002-easy-string-reverse" type="JavaScriptTestRunnerVitest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
+      <vitest-package value="$PROJECT_DIR$/node_modules/vitest" />
+      <working-dir value="$PROJECT_DIR$" />
       <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/problems/00002-easy-reverse-string/test.spec.ts" />
+      <test-names>
+        <test-name value="00002-easy-string-reverse" />
+      </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="lint" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="lint" />
-      </scripts>
+    <configuration name="00002-easy-string-reverse.params should be string" type="JavaScriptTestRunnerVitest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
+      <vitest-package value="$PROJECT_DIR$/node_modules/vitest" />
+      <working-dir value="$PROJECT_DIR$" />
       <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="prettier" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="prettier" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/problems/00002-easy-reverse-string/test.spec.ts" />
+      <test-names>
+        <test-name value="00002-easy-string-reverse" />
+        <test-name value="params should be string" />
+      </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Vitest.00001-warm-hello-world" />
-        <item itemvalue="npm.lint" />
-        <item itemvalue="npm.prettier" />
-        <item itemvalue="Vitest.should say hello" />
-        <item itemvalue="npm.commit" />
+        <item itemvalue="Vitest.00002-easy-string-reverse -&gt; type" />
+        <item itemvalue="Vitest.00002-easy-string-reverse -&gt; type.params should be string" />
+        <item itemvalue="Vitest.00002-easy-string-reverse -&gt; type test" />
+        <item itemvalue="Vitest.00002-easy-string-reverse.params should be string" />
+        <item itemvalue="Vitest.00002-easy-string-reverse" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +176,7 @@
       <workItem from="1688299292057" duration="10848000" />
       <workItem from="1688350709354" duration="2565000" />
       <workItem from="1688363376866" duration="3000" />
-      <workItem from="1688436436765" duration="38000" />
+      <workItem from="1688436436765" duration="7744000" />
     </task>
     <task id="LOCAL-00001" summary="style: 更新 .d.ts">
       <option name="closed" value="true" />
@@ -192,5 +212,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="style: 更新 .d.ts" />
     <option name="LAST_COMMIT_MESSAGE" value="style: 更新 .d.ts" />
+  </component>
+  <component name="VueSettings">
+    <option name="innerServiceType" value="TS_SERVICE" />
   </component>
 </project>

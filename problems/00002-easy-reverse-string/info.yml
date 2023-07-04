@@ -1,4 +1,4 @@
-title: Hello World
+title: Reverse String
 
 author:
   name: IamZJT
@@ -6,3 +6,5 @@ author:
   github: iamzjt-front-end
 
 difficulty: easy
+
+tag: string
