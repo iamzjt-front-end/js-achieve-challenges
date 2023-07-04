@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d61abfc6-d206-494d-8f61-c6020cf53de8" name="更改" comment="style: 更新 .d.ts">
-      <change afterPath="$PROJECT_DIR$/problems/00002-easy-reverse-string/README.zh-CN.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/00002-easy-reverse-string/index.test-d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/00002-easy-reverse-string/index.test.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auto-imports.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/auto-imports.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/00001-warm-hello-world/README.zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/problems/00001-warm-hello-world/README.zh-CN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/00001-warm-hello-world/info.yml" beforeDir="false" afterPath="$PROJECT_DIR$/problems/00001-warm-hello-world/info.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/00001-warm-hello-world/test.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/problems/00001-warm-hello-world/index.test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/00002-easy/README.zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/new.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/00002-easy/answer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/开发步骤.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/00002-easy/info.yml" beforeDir="false" afterPath="$PROJECT_DIR$/problems/00002-easy-reverse-string/info.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/00002-easy/test.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/problems/00002-easy-reverse-string/answer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +80,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Vitest.00002-easy-string-reverse -&gt; type">
+  <component name="RunManager" selected="Vitest.00002-easy-string-reverse (1)">
     <configuration name="00002-easy-string-reverse -&gt; type test" type="JavaScriptTestRunnerVitest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <vitest-package value="$PROJECT_DIR$/node_modules/vitest" />
@@ -128,13 +118,13 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="00002-easy-string-reverse" type="JavaScriptTestRunnerVitest" temporary="true" nameIsGenerated="true">
+    <configuration name="00002-easy-string-reverse (1)" type="JavaScriptTestRunnerVitest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <vitest-package value="$PROJECT_DIR$/node_modules/vitest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="SUITE" />
-      <test-file value="$PROJECT_DIR$/problems/00002-easy-reverse-string/test.spec.ts" />
+      <test-file value="$PROJECT_DIR$/problems/00002-easy-reverse-string/index.test.ts" />
       <test-names>
         <test-name value="00002-easy-string-reverse" />
       </test-names>
@@ -155,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Vitest.00002-easy-string-reverse (1)" />
         <item itemvalue="Vitest.00002-easy-string-reverse -&gt; type" />
         <item itemvalue="Vitest.00002-easy-string-reverse -&gt; type.params should be string" />
         <item itemvalue="Vitest.00002-easy-string-reverse -&gt; type test" />
         <item itemvalue="Vitest.00002-easy-string-reverse.params should be string" />
-        <item itemvalue="Vitest.00002-easy-string-reverse" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +166,7 @@
       <workItem from="1688299292057" duration="10848000" />
       <workItem from="1688350709354" duration="2565000" />
       <workItem from="1688363376866" duration="3000" />
-      <workItem from="1688436436765" duration="7744000" />
+      <workItem from="1688436436765" duration="8021000" />
     </task>
     <task id="LOCAL-00001" summary="style: 更新 .d.ts">
       <option name="closed" value="true" />

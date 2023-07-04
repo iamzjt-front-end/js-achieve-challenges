@@ -44,8 +44,8 @@ JavaScript 手写代码示例的编写对于学习 JavaScript 非常有帮助。
 <br><br>
 <!-- 简单题 -->
 <img src="https://img.shields.io/badge/%E7%AE%80%E5%8D%95-1-7aad0c" alt="1"/>
-<a href="./problems/00002-easy/README.zh-CN.md" target="_blank">
-	<img src="https://img.shields.io/badge/-2%E3%83%BB%E5%BE%85%E6%B7%BB%E5%8A%A0-7aad0c" alt="2・待添加"/>
+<a href="./problems/00002-easy-reverse-string/README.zh-CN.md" target="_blank">
+	<img src="https://img.shields.io/badge/-2%E3%83%BBReverse%20String-7aad0c" alt="2・Reverse String"/>
 </a>
 <br><br>
 <!-- 中等题 -->
