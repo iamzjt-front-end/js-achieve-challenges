@@ -87,4 +87,4 @@ JavaScript 手写代码示例的编写对于学习 JavaScript 非常有帮助。
 
 ## License
 
-MIT
+所有内容均采用 [MIT](https://spdx.org/licenses/MIT) 进行许可
