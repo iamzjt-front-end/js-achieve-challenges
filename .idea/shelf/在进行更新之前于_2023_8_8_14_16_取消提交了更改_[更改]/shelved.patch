@@ -1,0 +1,80 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"d61abfc6-d206-494d-8f61-c6020cf53de8\" name=\"更改\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n        <option value=\"markdown\" />\r\n        <option value=\"TypeScript File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"JsBowerSettings\">\r\n    <bower-package value=\"\" />\r\n    <bower.json value=\"\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"OptimizeOnSaveOptions\">\r\n    <option name=\"myRunOnSave\" value=\"true\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2RvayUd31prEMDYcPsx7HvX2W5y\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\r\n    \"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"editorconfig.notification\": \"lf \",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"javascript.nodejs.core.library.configured.version\": \"18.16.0\",\r\n    \"javascript.nodejs.core.library.typings.version\": \"18.16.0\",\r\n    \"last_opened_file_path\": \"C:/Users/admin/Desktop/js-achieve-challenges/problems/00002-easy-reverse-string\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.standard\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.standard\": \"\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_interpreter_path\": \"node\",\r\n    \"nodejs_package_manager_path\": \"/Users/iamzjt/Library/pnpm/pnpm\",\r\n    \"prettierjs.PrettierConfiguration.Package\": \"C:\\\\Users\\\\admin\\\\Desktop\\\\js-achieve-challenges\\\\node_modules\\\\prettier\",\r\n    \"rearrange.code.on.save\": \"true\",\r\n    \"settings.editor.selected.configurable\": \"settings.vue\",\r\n    \"ts.external.directory.path\": \"C:\\\\Users\\\\admin\\\\Desktop\\\\js-achieve-challenges\\\\node_modules\\\\typescript\\\\lib\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\admin\\Desktop\\js-achieve-challenges\\problems\\00002-easy-reverse-string\" />\r\n      <recent name=\"$PROJECT_DIR$/problems\" />\r\n      <recent name=\"$PROJECT_DIR$/problems/00002-easy\" />\r\n      <recent name=\"$PROJECT_DIR$\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"npm.commit\">\r\n    <configuration name=\"00002-easy-string-reverse -&gt; type test\" type=\"JavaScriptTestRunnerVitest\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <node-interpreter value=\"project\" />\r\n      <vitest-package value=\"$PROJECT_DIR$/node_modules/vitest\" />\r\n      <working-dir value=\"$PROJECT_DIR$\" />\r\n      <envs />\r\n      <scope-kind value=\"SUITE\" />\r\n      <test-file value=\"$PROJECT_DIR$/problems/00002-easy-reverse-string/index.test-d.ts\" />\r\n      <test-names>\r\n        <test-name value=\"00002-easy-string-reverse -&gt; type test\" />\r\n      </test-names>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"00002-easy-string-reverse -&gt; type\" type=\"JavaScriptTestRunnerVitest\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <node-interpreter value=\"project\" />\r\n      <vitest-package value=\"$PROJECT_DIR$/node_modules/vitest\" />\r\n      <working-dir value=\"$PROJECT_DIR$\" />\r\n      <envs />\r\n      <scope-kind value=\"SUITE\" />\r\n      <test-file value=\"$PROJECT_DIR$/problems/00002-easy-reverse-string/index.test-d.ts\" />\r\n      <test-names>\r\n        <test-name value=\"00002-easy-string-reverse -&gt; type\" />\r\n      </test-names>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"00002-easy-string-reverse -&gt; type.params should be string\" type=\"JavaScriptTestRunnerVitest\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <node-interpreter value=\"project\" />\r\n      <vitest-package value=\"$PROJECT_DIR$/node_modules/vitest\" />\r\n      <working-dir value=\"$PROJECT_DIR$\" />\r\n      <envs />\r\n      <scope-kind value=\"TEST\" />\r\n      <test-file value=\"$PROJECT_DIR$/problems/00002-easy-reverse-string/index.test-d.ts\" />\r\n      <test-names>\r\n        <test-name value=\"00002-easy-string-reverse -&gt; type\" />\r\n        <test-name value=\"params should be string\" />\r\n      </test-names>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"00002-easy-string-reverse (1)\" type=\"JavaScriptTestRunnerVitest\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <node-interpreter value=\"project\" />\r\n      <vitest-package value=\"$PROJECT_DIR$/node_modules/vitest\" />\r\n      <working-dir value=\"$PROJECT_DIR$\" />\r\n      <envs />\r\n      <scope-kind value=\"SUITE\" />\r\n      <test-file value=\"$PROJECT_DIR$/problems/00002-easy-reverse-string/index.test.ts\" />\r\n      <test-names>\r\n        <test-name value=\"00002-easy-string-reverse\" />\r\n      </test-names>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"commit\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <package-json value=\"$PROJECT_DIR$/package.json\" />\r\n      <command value=\"run\" />\r\n      <scripts>\r\n        <script value=\"commit\" />\r\n      </scripts>\r\n      <node-interpreter value=\"project\" />\r\n      <package-manager value=\"pnpm\" />\r\n      <envs />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"npm.commit\" />\r\n        <item itemvalue=\"Vitest.00002-easy-string-reverse (1)\" />\r\n        <item itemvalue=\"Vitest.00002-easy-string-reverse -&gt; type\" />\r\n        <item itemvalue=\"Vitest.00002-easy-string-reverse -&gt; type.params should be string\" />\r\n        <item itemvalue=\"Vitest.00002-easy-string-reverse -&gt; type test\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"应用程序级\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"默认任务\">\r\n      <changelist id=\"d61abfc6-d206-494d-8f61-c6020cf53de8\" name=\"更改\" comment=\"\" />\r\n      <created>1688133263992</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1688133263992</updated>\r\n      <workItem from=\"1688133267216\" duration=\"11673000\" />\r\n      <workItem from=\"1688290689975\" duration=\"8353000\" />\r\n      <workItem from=\"1688299292057\" duration=\"10848000\" />\r\n      <workItem from=\"1688350709354\" duration=\"2565000\" />\r\n      <workItem from=\"1688363376866\" duration=\"3000\" />\r\n      <workItem from=\"1688436436765\" duration=\"8693000\" />\r\n      <workItem from=\"1688454049761\" duration=\"1539000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"style: 更新 .d.ts\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1688307089854</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1688307089854</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"refactor: mod scripts commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1688455349755</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1688455349755</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"UnknownFeatures\">\r\n    <option featureType=\"com.intellij.fileTypeFactory\" implementationName=\"package.json\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT\" value=\"false\" />\r\n    <option name=\"CHECK_NEW_TODO\" value=\"false\" />\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"style: 更新 .d.ts\" />\r\n    <MESSAGE value=\"feat: mod scripts commit\" />\r\n    <MESSAGE value=\"refactor: mod scripts commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"refactor: mod scripts commit\" />\r\n  </component>\r\n  <component name=\"VueSettings\">\r\n    <option name=\"innerServiceType\" value=\"TS_SERVICE\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 9aa3f04bbf69e36f551783314f840f79fc7be622)
++++ b/.idea/workspace.xml	(date 1691475357087)
+@@ -21,6 +21,7 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="RESET_MODE" value="HARD" />
+   </component>
+   <component name="JsBowerSettings">
+     <bower-package value="" />
+@@ -41,34 +42,34 @@
+     <option name="showLibraryContents" value="true" />
+     <option name="showMembers" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ASKED_ADD_EXTERNAL_FILES": "true",
+-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "DefaultHtmlFileTemplate": "HTML File",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "editorconfig.notification": "lf ",
+-    "git-widget-placeholder": "main",
+-    "javascript.nodejs.core.library.configured.version": "18.16.0",
+-    "javascript.nodejs.core.library.typings.version": "18.16.0",
+-    "last_opened_file_path": "C:/Users/admin/Desktop/js-achieve-challenges/problems/00002-easy-reverse-string",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.standard": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.standard": "",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_interpreter_path": "node",
+-    "nodejs_package_manager_path": "/Users/iamzjt/Library/pnpm/pnpm",
+-    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\admin\\Desktop\\js-achieve-challenges\\node_modules\\prettier",
+-    "rearrange.code.on.save": "true",
+-    "settings.editor.selected.configurable": "settings.vue",
+-    "ts.external.directory.path": "C:\\Users\\admin\\Desktop\\js-achieve-challenges\\node_modules\\typescript\\lib",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
++    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;editorconfig.notification&quot;: &quot;lf &quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.16.0&quot;,
++    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.16.0&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/js-achieve-challenges/problems/00002-easy-reverse-string&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;/Users/iamzjt/Library/pnpm/pnpm&quot;,
++    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\admin\\Desktop\\js-achieve-challenges\\node_modules\\prettier&quot;,
++    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;settings.vue&quot;,
++    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\admin\\Desktop\\js-achieve-challenges\\node_modules\\typescript\\lib&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="C:\Users\admin\Desktop\js-achieve-challenges\problems\00002-easy-reverse-string" />
